@@ -18,7 +18,7 @@ Le Pennec, S., Konopka, T., Gacquer, D.,** Fimereli, D.**, Tarabichi, M., Tomás
 
 ### 2013
 
-***Fimereli, D.**, Detours, V. and Konopka, T., 2013. TriageTools: tools for partitioning and prioritizing analysis of high-throughput sequencing data. Nucleic acids research, p.gkt094.
+**Fimereli, D.**, Detours, V. and Konopka, T., 2013. TriageTools: tools for partitioning and prioritizing analysis of high-throughput sequencing data. Nucleic acids research, p.gkt094.
 
 ### 2012
 
