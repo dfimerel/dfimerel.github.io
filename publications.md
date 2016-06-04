@@ -11,7 +11,7 @@ subtitle:
 
 ### 2015
 
-Le Pennec, S., Konopka, T., Gacquer, D.,** Fimereli, D.**, Tarabichi, M., Tomás, G., Savagner, F., Decaussin-Petrucci, M., Trésallet, C., Andry, G. and Larsimont, D., 2015. Intratumor heterogeneity and clonal evolution in an aggressive papillary thyroid cancer and matched metastases. Endocrine-related cancer, 22(2), pp.205-216.
+Le Pennec, S., Konopka, T., Gacquer, D.,**Fimereli, D.**, Tarabichi, M., Tomás, G., Savagner, F., Decaussin-Petrucci, M., Trésallet, C., Andry, G. and Larsimont, D., 2015. Intratumor heterogeneity and clonal evolution in an aggressive papillary thyroid cancer and matched metastases. Endocrine-related cancer, 22(2), pp.205-216.
 
 **Fimereli, D.**, Gacquer, D., Fumagalli, D., Salgado, R., Rothé, F., Larsimont, D., Sotiriou, C. and Detours, V., 2015. No significant viral transcription detected in whole breast cancer transcriptomes. BMC cancer, 15(1), p.1.
 
