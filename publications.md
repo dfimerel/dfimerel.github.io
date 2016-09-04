@@ -7,7 +7,7 @@ subtitle:
 ## Publications
 
 ### 2016
-
+Saiselet, M., Pita, J.M., Augenlicht, A., Dom, G., Tarabichi, M.,** Fimereli, D.**, Dumont, J.E., Detours, V. and Maenhaut, C., 2016. *miRNA expression and function in thyroid carcinomas: a comparative and critical analysis and a model for other cancers*. Oncotarget.
 
 ### 2015
 
