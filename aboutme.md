@@ -11,6 +11,7 @@ I am currently a PhD student (finishing soon) in bioinformatics, working on iden
 I'm specially interested in the following research fields:
 
 * Bioninformatics
+* Cancer Genomics
 * Oncology
 * Biology
 
