@@ -1,10 +1,13 @@
 ---
 layout: page
 title: 
-subtitle: 
+subtitle: These are some of the projects I have worked on
 ---
 
-## Projects
+* General analysis of transcriptome data from various cancer types (breast and thyroid cancer, melanoma)
+* Specialized analysis of RNA-seq data for the detection of gene fusions /  viral sequences
+
+
 
 
 
