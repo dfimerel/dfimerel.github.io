@@ -22,6 +22,6 @@ On my free time I mostly play basketball in an amateur team, do some basic cooki
 
 
 ## You can find my here 
-[Github](https://github.com/dfimerel)
-[Linkedin ](www.linkedin.com/in/danai-fimereli-bbb44a19)
-[Researchgate](https://www.researchgate.net/profile/Danai_Fimereli)
+* [Github](https://github.com/dfimerel)
+* [Linkedin ](https://www.linkedin.com/in/danai-fimereli-bbb44a19)
+* [Researchgate](https://www.researchgate.net/profile/Danai_Fimereli)
