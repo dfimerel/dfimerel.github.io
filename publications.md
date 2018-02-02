@@ -6,8 +6,13 @@ subtitle:
 
 ## Publications
 
+### 2018
+**Fimereli D**, Fumagalli D, Brown D, Gacquer D, Rothé D, Salgado R,Larsimont D, Sotiriou C, Detours V (2017) Genomic hotspots but few recurrent fusion genes in breast cancer. Genes, Chromosomes and Cancer (under review).
+
+
 ### 2016
 Saiselet, M., Pita, J.M., Augenlicht, A., Dom, G., Tarabichi, M.,**Fimereli, D.**, Dumont, J.E., Detours, V. and Maenhaut, C., 2016. *miRNA expression and function in thyroid carcinomas: a comparative and critical analysis and a model for other cancers*. Oncotarget.
+
 
 ### 2015
 
@@ -19,6 +24,7 @@ Le Pennec, S., Konopka, T., Gacquer, D.,**Fimereli, D.**, Tarabichi, M., Tomás,
 ### 2013
 
 **Fimereli, D.**, Detours, V. and Konopka, T., 2013. *TriageTools: tools for partitioning and prioritizing analysis of high-throughput sequencing data*. Nucleic acids research, p.gkt094.
+
 
 ### 2012
 
