@@ -4,7 +4,7 @@ title: About me
 subtitle: A little bit about me
 ---
 
-I am currently a PhD student in Bioinformatics and Computational Biology, working actively on identifying genetic changes in breast cancer. I am working at IRIBHM, at the Universite Libre de Bruxelles, in Belgium.
+I am currently a post-doctoral fellow at IRIBHM of the Universite Libre de Bruxelles, working actively on identifying genetic changes in breast cancer. I have finished my PhD in Bioinformatics and Computational Biology at the same institute.
 
 ## My research interests
 
