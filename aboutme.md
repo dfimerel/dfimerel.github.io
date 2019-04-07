@@ -4,7 +4,8 @@ title: About me
 subtitle: A little bit about me
 ---
 
-I am currently a post-doctoral fellow at IRIBHM of the Universite Libre de Bruxelles, working actively on identifying genetic changes in breast cancer. I have finished my PhD in Bioinformatics and Computational Biology at the same institute.
+I am currently a bioinformatics post-doctoral fellow at Institut Jules Bordet (in Brussels), working on understanding the biology of breast cancer! I am part of the Breast Cancer Translational Research Laboratory J.C. Heuson, a diverse and exciting group of scientists and medical doctors.
+
 
 ## My research interests
 
@@ -18,7 +19,7 @@ I'm specially interested in the following research fields:
 
 ## What do I do when I don't do research
 
-On my free time I mostly play basketball in an amateur team, do some basic cooking or read mystery books 
+On my free time I play basketball and I run, I practice yoga, do some basic cooking or read mystery books 
 
 
 ## You can find my here 
