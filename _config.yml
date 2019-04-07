@@ -24,7 +24,7 @@ description: Personal webpage of Danai Fimereli
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  #About Me: "aboutme"
+  About Me: "aboutme"
   Projects: "projects"
   Publications: "publications"
   
