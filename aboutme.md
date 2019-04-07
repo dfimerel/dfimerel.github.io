@@ -25,4 +25,5 @@ On my free time I play basketball and I run, I practice yoga, do some basic cook
 ## You can find my here 
 * [Github](https://github.com/dfimerel)
 * [Linkedin ](https://www.linkedin.com/in/danai-fimereli-bbb44a19)
+* [Twitter](https://twitter.com/Fimereli_Danai?lang=en)
 * [Researchgate](https://www.researchgate.net/profile/Danai_Fimereli)
