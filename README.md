@@ -1,6 +1,6 @@
 # dfimerel.github.io
 
-Danai Fimereli's github.io website
+Danai Fimereli's github.io website (updated November 2020)
 
 
 This website was create using Beautiful Jekyll
