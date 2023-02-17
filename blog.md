@@ -1,1 +1,5 @@
-This is an empty file for the moment
+---
+layout: page
+title: 
+subtitle: Kind of a blog
+---
