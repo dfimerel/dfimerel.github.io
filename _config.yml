@@ -27,6 +27,7 @@ navbar-links:
   About Me: "aboutme"
   Projects: "projects"
   Publications: "publications"
+  Blog: "blog"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -40,11 +41,10 @@ avatar: "/img/photo_toronto.jpg"
 author:
   name: Danai Fimereli
   #email: "youremail@domain.com"
-  #facebook: yourname  # eg. daattali
-  github: dfimerel    # eg. daattali
-  twitter: Fimereli_Danai   # eg. daattali
-  #linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
-  #stackoverflow: yourlink  # eg. "3943160/daattali"
+  #facebook: yourname  
+  github: dfimerel    
+  twitter: Fimereli_Danai   
+  #linkedin: yourlink   
  
 # Select which links to show in the footer
 footer-links-active:
