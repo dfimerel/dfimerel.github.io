@@ -1,14 +1,12 @@
 ---
 layout: post
 title: Create maps and connect cities
-subtitle: Each post also has a subtitle
-tags: [test]
+tags: ["R coding","maps"]
 comments: true
 ---
 
 <h3 style="text-align: center;">How to draw connecting routes on a map in R</h3> 
-<br><br><br>
-  
+<br><br>
   
 In this tutorial, the goal is to create a map of the world, identify and pin our favorite cities in the world on the map and finally display connecting lines between them. Two packages are required, <font color="blue">maps</font> and <font color="blue">geosphere</font>. Let's go! <br><br>
   
