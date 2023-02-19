@@ -6,13 +6,13 @@ tags: [test]
 comments: true
 ---
 
-<h3 align="center"; > How to draw connecting routes on a map in R<br><br><br> </h3> 
+<h3 align="center";>How to draw connecting routes on a map in R<br><br><br></h3> 
   
   
 In this tutorial, the goal is to create a map of the world, identify and pin our favorite cities in the world on the map and finally display connecting lines between them. Two packages are required, $\color{blue}{\text{maps}}$ and $\color{blue}{\text{geosphere}}$. Let's go! <br><br>
   
     
-<h4> Draw an empty map  </h4>
+<h4>Draw an empty map</h4>
 
 ---  
   
@@ -36,7 +36,7 @@ map('world',
 </p>
 
 
-<h4> Add the cities you want </h4>
+<h4>Add the cities you want</h4>
 
 ---
 
@@ -68,7 +68,7 @@ points(x=my_cities$long, y=my_cities$lat, col="slateblue", cex=3, pch=20)
 </p>
 
 
-<h4> Connect the cities you want </h4>
+<h4>Connect the cities you want</h4>
 
 ---
 
