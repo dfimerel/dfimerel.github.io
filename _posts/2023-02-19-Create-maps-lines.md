@@ -6,10 +6,11 @@ tags: [test]
 comments: true
 ---
 
-<h3 align="center";>How to draw connecting routes on a map in R<br><br><br></h3> 
+<h3 align="center";>How to draw connecting routes on a map in R</h3> 
+<br><br><br>
   
   
-In this tutorial, the goal is to create a map of the world, identify and pin our favorite cities in the world on the map and finally display connecting lines between them. Two packages are required, $\color{blue}{\text{maps}}$ and $\color{blue}{\text{geosphere}}$. Let's go! <br><br>
+In this tutorial, the goal is to create a map of the world, identify and pin our favorite cities in the world on the map and finally display connecting lines between them. Two packages are required, <font color="blue">maps</font> and <font color="blue">geosphere</font>. Let's go! <br><br>
   
     
 <h4>Draw an empty map</h4>
@@ -17,7 +18,7 @@ In this tutorial, the goal is to create a map of the world, identify and pin our
 ---  
   
 
-We can start by creating first an empty map of the world. For this we will use the package $\color{blue}{\text{maps}}$.<br> 
+We can start by creating first an empty map of the world. For this we will use the package <font color="blue">maps</font>.<br> 
 
 ```r
 # World map is available in the maps package
@@ -40,7 +41,7 @@ map('world',
 
 ---
 
-Adding points to the map is easy. We need to obtain first the coordinates of the cities (longitute and lattitude). The package $\color{blue}{\text{maps}}$ has this info for 43645 cities across the world. Since its possible that a city name can appear in multiple countries, its better to specify the country as well. <br>
+Adding points to the map is easy. We need to obtain first the coordinates of the cities (longitute and lattitude). The package <font color="blue">maps</font> has this info for 43645 cities across the world. Since its possible that a city name can appear in multiple countries, its better to specify the country as well. <br>
 
 ```r
 # here are the coordinates for 43645 cities across the world
@@ -72,7 +73,7 @@ points(x=my_cities$long, y=my_cities$lat, col="slateblue", cex=3, pch=20)
 
 ---
 
-In the last step we will connect the dots of the cities we want. For this we will use the package $\color{blue}{\text{geosphere}}$. <br>
+In the last step we will connect the dots of the cities we want. For this we will use the package <font color="blue">geosphere</font>. <br>
 
 ```r
 # Load geosphere
@@ -102,4 +103,4 @@ lines(inter, col="slateblue", lwd=2)
 </p>
 
 
-Thats it, we made it! We can always play around with the parameters of the package map, to customize your map.<br>
+Thats it, we made it! We can always play around with the parameters of the package <font color="blue">maps</font>, to customize your map.<br>
