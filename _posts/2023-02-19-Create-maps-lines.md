@@ -6,7 +6,7 @@ tags: [test]
 comments: true
 ---
 
-<h3 align="center";>How to draw connecting routes on a map in R</h3> 
+<h3 style="text-align: center;">How to draw connecting routes on a map in R</h3> 
 <br><br><br>
   
   
