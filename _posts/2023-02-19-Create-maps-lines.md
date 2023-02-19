@@ -19,7 +19,7 @@ In this tutorial, the goal is to create a map of the world, identify and pin our
 
 We can start by creating first an empty map of the world. For this we will use the package $\color{blue}{\text{maps}}$.<br> 
 
-```{r }
+```r
 # World map is available in the maps package
 library(maps)
 
@@ -42,7 +42,7 @@ map('world',
 
 Adding points to the map is easy. We need to obtain first the coordinates of the cities (longitute and lattitude). The package $\color{blue}{\text{maps}}$ has this info for 43645 cities across the world. Since its possible that a city name can appear in multiple countries, its better to specify the country as well. <br>
 
-```{r }
+```r
 # here are the coordinates for 43645 cities across the world
 world_cities_data = maps::world.cities
 
@@ -74,7 +74,7 @@ points(x=my_cities$long, y=my_cities$lat, col="slateblue", cex=3, pch=20)
 
 In the last step we will connect the dots of the cities we want. For this we will use the package $\color{blue}{\text{geosphere}}$. <br>
 
-```{r }
+```r
 # Load geosphere
 library(geosphere)
 
