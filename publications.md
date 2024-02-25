@@ -8,6 +8,9 @@ subtitle:
 
 #### You can find a full list of my publications in my [Google Scholar account](https://scholar.google.com/citations?user=zj3vmKQAAAAJ&hl=en).
 
+#### 2023
+Irene Assaf, **Danai Fimereli**, Geraldine Anthoine, Roberta Fazio, Valentina Daprà, Alessandro Audisio, Alina Bardiaux, Tugba Akin Telli, Michele Vanhooren, Rita Saude-Conde, Giacomo Bregni, Alain Hendlisz, Francesco Sclafani, 2023, *Prognostic Value of Circulating Cytokines in Chemorefractory Colorectal Cancer*. Cancers
+
 #### 2022
 **Danai Fimereli**, David Venet, Mattia Rediti, Bram Boeckx, Marion Maetens, Samira Majjaj, Ghizlane Rouas, Caterina Marchio, Francois Bertucci, Odette Mariani, Maria Capra, Giuseppina Bonizzi, Federica Contaldo, Christine Galant, Gert Van den Eynden, Roberto Salgado, Elia Biganzoli, Anne Vincent-Salomon, Giancarlo Pruneri, Denis Larsimont, Diether Lambrechts, Christine Desmedt, David N Brown, Françoise Rothé, Christos Sotiriou, 2022, *Timing evolution of lobular breast cancer through phylogenetic analysis*. EBioMedicine.
 
